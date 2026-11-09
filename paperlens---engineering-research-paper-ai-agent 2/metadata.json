@@ -1,0 +1,6 @@
+{
+  "name": "PaperLens - Engineering Research Paper AI Agent",
+  "description": "AI agent for engineering students to analyze research papers from PDF or URL: breakdown problem statement & methodology, render interactive Mermaid architecture diagrams, discover project opportunities, and extract metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
